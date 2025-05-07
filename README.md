@@ -62,7 +62,7 @@ E.D.A PROJECT/
 
 ## 👨‍🎓 Authors
 
-- Isaac Benadiba – [GitHub](https://github.com/isaacbenadiba)  
+- Isaac Benadiba, Ofri Shimon – [GitHub](https://github.com/isaacbenadiba)  
 - Ofri Shimon
 
 ---
